@@ -17,7 +17,7 @@ disqusShortname = "geanramos"
 	subtitle = "[histórias que emocionam.](./) não tão longas quanto um romance, mas suficientes para te fazer sentir."
 
 	# Optional 64x64 avatar image.
-	avatar = "./images/logo.jpg"
+	avatar = https://i1.wp.com/geanramos.github.io/hugo/images/logo.png?w=64"
 
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
