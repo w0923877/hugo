@@ -1,67 +1,71 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/df5ce52b-9727-4f15-8cd9-ef9c12ba5eb6/deploy-status)](https://app.netlify.com/sites/adoring-hugle-871f0c/deploys)
+# Ink
+Crisp, minimal personal website and blog theme Hugo. Forked from [Ezhil](https://github.com/vividvilla/ezhil).
 
-# Source for www.highlandcows.com
-
-Taken from HTML5 Boilerplate, see following.
-
-# [HTML5 Boilerplate](http://html5boilerplate.com)
-
-HTML5 Boilerplate is a professional front-end template for building fast,
-robust, and adaptable web apps or sites.
-
-This project is the product of many years of iterative development and combined
-community knowledge. It does not impose a specific development philosophy or
-framework, so you're free to architect your code in the way that you want.
-
-* Source: [https://github.com/h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
-* Homepage: [http://html5boilerplate.com](http://html5boilerplate.com)
-* Twitter: [@h5bp](http://twitter.com/h5bp)
-
-
-## Quick start
-
-Choose one of the following options:
-
-1. Download the latest stable release from
-   [html5boilerplate.com](http://html5boilerplate.com/) or a custom build from
-   [Initializr](http://www.initializr.com).
-2. Clone the git repo — `git clone
-   https://github.com/h5bp/html5-boilerplate.git` - and checkout the tagged
-   release you'd like to use.
-
+## Demo
+[View demo](https://hugo-ink.netlify.com)
+![Screenshot](https://user-images.githubusercontent.com/547147/69119000-3ace9280-0abb-11ea-81bc-5af68433e845.png "Ink light theme")
 
 ## Features
+* Google Analytics integration
+* Syntax highlighting
+* Twitter cards and opengraph tags support
+* Disqus comments
+* RSS feeds
+* Custom CSS/JS
+* Multilingual months support
 
-* HTML5 ready. Use the new elements with confidence.
-* Cross-browser compatible (Chrome, Opera, Safari, Firefox 3.6+, IE6+).
-* Designed with progressive enhancement in mind.
-* Includes [Normalize.css](http://necolas.github.com/normalize.css/) for CSS
-  normalizations and common bug fixes.
-* The latest [jQuery](http://jquery.com/) via CDN, with a local fallback.
-* The latest [Modernizr](http://modernizr.com/) build for feature detection.
-* IE-specific classes for easier cross-browser control.
-* Placeholder CSS Media Queries.
-* Useful CSS helpers.
-* Default print CSS, performance optimized.
-* Protection against any stray `console.log` causing JavaScript errors in
-  IE6/7.
-* An optimized Google Analytics snippet.
-* Apache server caching, compression, and other configuration defaults for
-  Grade-A performance.
-* Cross-domain Ajax and Flash.
-* "Delete-key friendly." Easy to strip out parts you don't need.
-* Extensive inline and accompanying documentation.
+## Installation
+
+cd into your hugo site's root directory and:
+
+```sh
+cd themes
+git clone https://github.com/knadh/hugo-ink.git
+```
+
+For more information read the [official setup guide](https://gohugo.io/overview/installing/) of Hugo.
 
 
-## Documentation
+## Content type
 
-Take a look at the [documentation table of contents](doc/TOC.md). This
-documentation is bundled with the project, which makes it readily available for
-offline reading and provides a useful starting point for any documentation you
-want to write about your project.
+You can specify content type with field `type` in your content. For example static pages can be set as type `page` which are excluded from recent posts and all posts page. You can use site params `mainSections` and `disableDisqusTypes` to control which page types are excluded from recent posts and Disqus comments respectively.
 
+```md
+---
+title: "About"
+date: 2019-04-19T21:37:58+05:30
+type: "page"
+---
 
-## Contributing
+This is some static page where you can write about yourself.
+```
 
-Anyone and everyone is welcome to [contribute](CONTRIBUTING.md). Hundreds of
-developers have helped make the HTML5 Boilerplate what it is today.
+## Language Settings for the month
+
+Due to the currently unavailable feature for multilingual dates in ``.Date`` from
+Go. It is possible to create a ``month.yaml`` in the data folder of your
+Hugo site root directory. There is also an example file in
+``exampleSite/data/``.
+
+```sh
+cat > month.yaml << EOF
+1: "Jan"
+2: "Feb"
+3: "Mar"
+4: "Apr"
+5: "May"
+6: "Jun"
+7: "Jul"
+8: "Aug"
+9: "Sep"
+10: "Oct"
+11: "Nov"
+12: "Dec"
+EOF
+```
+
+## Credits
+
+* [Ezhil theme](https://github.com/vividvilla/ezhil) from which Ink was forked
+
+Licensed under the MIT license.
