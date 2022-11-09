@@ -1,0 +1,30 @@
+@import url("https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/light.min.css");
+
+@import url("https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/dark.min.css") screen and (prefers-color-scheme: dark);
+
+main {
+  max-width: 38rem;
+  padding: 2rem;
+  margin: auto;
+}
+
+.flex-container {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+@media only screen and (min-width: 992px) {
+	.intro {
+		margin-left: 10px;
+		max-width: 550px;
+	}
+}
+
+.contact {
+}
+
+.nick-photo {
+    align-self: flex-start;
+    border-radius: 8px;
+}

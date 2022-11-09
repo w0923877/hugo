@@ -1,0 +1,115 @@
+<!doctype html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="UTF-8">
+	<link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/dark.css'>
+	<link rel="stylesheet" type="text/css" href="../..style.css">
+	<title>CLI Journey,v2</title>
+</head>
+<body>
+<h1>The Unix Command Line Interface:<br>You're Still The One</h1>
+
+<blockquote>
+<p>You're still the one -- who can scratch my itch<br>
+Still the one -- and I wouldn't switch<br>
+We're still having fun, and you're still the one<br>
+<p align='center'>&quot;Still The One&quot; by Orleans, 1976</p></p>
+</blockquote>
+
+<p><em>NB: Throughout this essay, I use the term &quot;Unix&quot; to mean the family of Unix-like operating systems that includes the original Unix™ written at AT&amp;T, BSD Unix from UC Berkeley, as well as its spiritual descendent, Linux. When it's relevant, I'll explain why I'm referring to one over the other.</em></p>
+
+<h2>The Unix Command Line Interface</h2>
+
+<p>The command line interface is for most technology users in the early 21st century an interface on their computers which they will never use. We live in a world of mice, touch screens, and more and more commonly, voice-activated user interfaces. The idea of solely using the keyboard is quickly becoming an anachronism.</p>
+
+<p>For most of you.</p>
+
+<p>For a small group of technology users, the command line interface still plays an important if not key role in our use of computers. That group is coders. My own coding career has spanned a few decades and when I started out, the keyboard was the only input device available. Within a decade that had changed. I was part of the generation of technologists who introduced high-powered Unix workstations to Wall Street investment bankers and by the mid-1990s, it was clear that computers with graphical user interfaces and pointing devices like a mouse or trackpad were an enormous boost to productivity. </p>
+
+<p>Despite that, today, if you look at the screens of most coders, they are littered with windows full of cryptic commands and it's reasonable to wonder why. In 2014, after some turmoil in my previous career in finch, and resulting introspection, I rebooted my career. Because of that, I started spending a lot of time with people working at start-ups in London's tech hub in and around Shoreditch. I then went on to work at a start-up in Cape Town, South Africa from 2015. So I found it more than a bit interesting that coders both in London and Cape Town, many of whom have never used a computer that didn't have a mouse and a high-resolution screen still relied on the command line interface to do their daily job.</p>
+
+<p>That got me to thinking about their journey with the command line interface as compared to mine.</p>
+
+<h2>A Bit Of History</h2>
+
+<p>The command line interface has been an integral part of the Unix™ operating system since its beginning. Developed by researchers at AT&amp;T's Bell Laboratories in the early 1970's, these same researchers who wrote the operating system's kernel also wrote the user-level programs that made Unix™ a useful platform. These tools included not only language compilers for C and Fortran but a myriad of other high-level, text-oriented languages and tools with names such as &quot;awk&quot;, &quot;sed&quot;, and &quot;grep&quot;. These programs could be invoked using a special program called the &quot;shell&quot; (the program name was just &quot;sh&quot;). The shell made it easy to start these other programs, redirect their output to files, run them in pipelines and so on. The shell was built to leverage key capabilities of the underlying operating system.</p>
+
+<p>It was a very powerful and flexible environment especially when one considered that the dominant user interface of the time, an old-style CRT and keyboard, was pretty much all you could count on being available. But what was particularly powerful was the idea that these high-level tools and languages -- the so-called user-level programs -- could be extended and even replaced by end-users without having to make direct modifications to the operating system. Of course, this capability exists to varying degrees on all computing platforms, but AT&amp;T created a fertile field of innovation based around Unix particularly when they made it basically free for universities. This meant that a whole new generation of coders, myself included, learned to write software for the Unix operating system.</p>
+
+<p>Fast forward a few years into the early 1990's and thanks to Linus Torvalds' hard work, his open source version of Unix -- Linux -- became the key component for a burgeoning open source community lead by GNU founder, Richard Stallman at MIT. GNU and Linux were to create a powerful new force in the technology industry, the results of which are still relevant. Apple jumped on the Unix bandwagon when Steve Jobs returned to them with his NeXT operating system. It was based on a Unix-inspired operating system, Mach, written at Carnegie-Mellon University in the late 1980s.</p>
+
+<p>So although AT&amp;T's proprietary operating system Unix™ is less relevant now for our day to day work as coders, the interface, philosophy, and tools that those researchers at Bell Laboratories developed lives on as a key aspect of our daily lives. Indeed, if we have been able to see further, it is because we have stood on the shoulders of giants.</p>
+
+<h2>But Why Is the CLI Still A Thing?</h2>
+
+<p>When I was just a wee lad coming out of university, IBM's PC was starting to make inroads into the business world. The PC-AT sported a color screen and some models even had hard drives. But if you were interested in doing <em>serious</em> computing, you worked on a project that used the Unix operating system. Equally importantly, I had learned about TCP/IP because of my experience with BSD Unix and evangelized frequently to my colleagues and managers in a large fintech company about why we should be building TCP/IP networks. The internet was still in its infancy but was alive and well in academia. It's safe to say that I had drunk deeply the Unix™ Kool-Aid™.</p>
+
+<p>Part and parcel of my self-proclaimed almost evangelical embrace of the Unix platform was knowing how to use the command line. Not just for daily use as a coder, but for managing entire systems of Unix computers. It was a badge of honor to be able to demonstrate skill with these tools. I benefitted greatly from working with people who had a deep understanding of command line, one an independent educator and trainer in Unix and the C programming language and another who had worked with Rob Pike at Bell Laboratories.</p>
+
+<p>So knowing the command line made a lot of sense then. Powerful Unix workstations were only just being introduced in the corporate world and we needed skills and technologies that bridged the older terminal-oriented world with this new vision of desktop computing. But the interesting question for me, at least, is why is the command line still a thing now? A big reason is that there is still a similar journey between then and now.</p>
+
+<table>
+<colgroup>
+<col style="text-align:left;"/>
+<col style="text-align:left;"/>
+</colgroup>
+
+<thead>
+<tr>
+	<th style="text-align:left;">Then</th>
+	<th style="text-align:left;">Now</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+	<td style="text-align:left;">Forced to learn it because there was no alternative</td>
+	<td style="text-align:left;">Forced to learn it because there are still few alternatives with the same degree of power</td>
+</tr>
+<tr>
+	<td style="text-align:left;">Started copying other people's scripts who I was lucky enough to work with</td>
+	<td style="text-align:left;">Can copy other people scripts because now we have GitHub, StackExchange, and a myriad of other sources of fantastic examples</td>
+</tr>
+<tr>
+	<td style="text-align:left;">Figured out that it's pretty damn powerful, so best to master it</td>
+	<td style="text-align:left;">Ditto :)</td>
+</tr>
+</tbody>
+</table>
+
+<p>But surely there have been better solutions developed in the last 40+ years, you ask. I think the answer is a guarded yes. Graphical user interfaces have been a massive boon for system and network management platforms. In particular, they make it easier to spot issues and find trends in the same way that charts and graphs make it easier to spot trends in any large data set. Graphical user interfaces have also made it easier to manage large networks of computers, again by virtue of their ability to provide a visual metaphor to navigate to specific systems in the network. But, once you've identified the computer or networking component that is causing an issue, often the easiest thing to do is connect to that device (usually using <code>ssh</code>) at which point you are presented with a command line interface. Of course, it may not be a Unix-like operating system that you're presented with (but then again it's very likely that it is), the same principle applies: you need to be facile with an interface that is purely keyboard-driven.</p>
+
+<p>I've also seen tools which provided a graphical interface for tasks that are more associated with coding, especially in the source code version management space, a good example is SourceTree. These tools excel in providing visual metaphors for tracing the changes that have been made to one or more source code files, especially over time. These applications benefit from the use of tables, different fonts, and colors to help a developer quickly identify differences between files. This latter capability is indispensable in managing the review process for source code changes. Despite this, there are many times when being able to use the command line for a quick change to my project's source code has been indispensable. The command line is fantastic in a situation like this because I can use a terminal-oriented editor like <code>vi</code> to effect the change and then use whatever command line interface my source code platform has provided to commit those changes. The command line allows me to perform a task like this quickly, often taking no more than 1-2 minutes as there is no clicking to select a branch or switching windows to make the edits. Does this represent my main mode of work? Of course not. But when I need to work quickly, the command line can't be beaten.</p>
+
+<p>To summarize, while there has been great innovation in this space, I still don't see the need for competency at the command line going away any time soon.</p>
+
+<p>Probably the biggest improvement that graphical user interfaces have given us is the ability to have lots of terminal windows open simultaneously. <em>That</em> was something that I could only do with multiple physical terminals back in the day, the result of which gave my cubicle the look and feel of a second-hand electronics shop.</p>
+
+<h2>Importance For Coders</h2>
+
+<p>The importance for coders to be comfortable with the command line cannot be overstated. But despite my earlier assertions to this effect, the reader may still ask &quot;why&quot;? I think it can be attributed to a few key characteristics of the command line that are particularly relevant for coders:</p>
+
+<ul>
+<li>Keyboard orientation -- As coders, we use the keyboard all day long. It's an input device we're comfortable with. Moreover, the &quot;cryptic&quot; nature of the command line is a difference for us in kind -- not type -- since its &quot;cryptic-ness&quot; is no different than any other computer language.</li>
+<li>High signal/noise ratio -- The command line provides an enormous amount of information in a format that we are familiar with: text.</li>
+<li>Few or no distractions -- Related to the signal/noise ratio is the lack of distractions. There are basically no visual elements that are trying to get our attention or distract us from our work when we use the command line. There is nothing extraneous.</li>
+</ul>
+
+<p>These characteristics taken together continue to make the command line the &quot;killer app&quot; year after year for coders. In fact, if you look at successful graphically oriented tools for coders, you will see that they extend the text-oriented environment for developers. Again, the goal of these tools is to minimize cognitive disruption. Thus it should come as no surprise that for successful coders, competency at the command line is an important goal. That competency allows us to perform code, system, and network management tasks with a minimum of disruption.</p>
+
+<h2>Parting Words</h2>
+
+<p>I hope that in this brief essay, I have shared with you convincingly some of the &quot;meta-considerations&quot; that make learning the command line interface a compelling undertaking. As I asserted at the beginning of the essay, it is still a key part of my day to day work as a coder and I see no indication that it's going away any time soon. As the lyrics in Orleans' song go, &quot;you're still the one&quot; for me.</p>
+
+<h2>Sources</h2>
+
+<p>Over the years, I've found a few references to be better than many for the command line.</p>
+
+<ul>
+<li><em>The Unix Programming Environment</em> - Brian Kernighan and Rob Pike, 1984, Prentice-Hall. ISBN 0-13-937681-X</li>
+<li><em>Unix Programmer's Manual, Volume 2</em> - Various, 1983, Bell Laboratories. ISBN 0-03-061743-X (PDF available at http://www.livingcomputers.org/Discover/Online-Systems/User-Documentation/Unix-v7-(1)/UNIX_Programmers_Manual_Seventh_Edition_Vol_2_1983.aspx)</li>
+<li><em>Bash Reference Manual</em> - https://www.gnu.org/software/bash/manual/html_node/index.html</li>
+</ul>
+</body>
+</html>

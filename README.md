@@ -1,166 +1,67 @@
-# Ezhil
+[![Netlify Status](https://api.netlify.com/api/v1/badges/df5ce52b-9727-4f15-8cd9-ef9c12ba5eb6/deploy-status)](https://app.netlify.com/sites/adoring-hugle-871f0c/deploys)
 
-Clean and minimal personal blog and portfolio theme for Hugo.
+# Source for www.highlandcows.com
 
-## Demo
+Taken from HTML5 Boilerplate, see following.
 
-[View demo](https://ezhil-hugo.netlify.com/)
+# [HTML5 Boilerplate](http://html5boilerplate.com)
 
-![Screenshot](images/screenshot-light.png "Ezhil light theme")
-![Screenshot](images/screenshot-dark.png "Ezhil dark theme")
+HTML5 Boilerplate is a professional front-end template for building fast,
+robust, and adaptable web apps or sites.
+
+This project is the product of many years of iterative development and combined
+community knowledge. It does not impose a specific development philosophy or
+framework, so you're free to architect your code in the way that you want.
+
+* Source: [https://github.com/h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
+* Homepage: [http://html5boilerplate.com](http://html5boilerplate.com)
+* Twitter: [@h5bp](http://twitter.com/h5bp)
+
+
+## Quick start
+
+Choose one of the following options:
+
+1. Download the latest stable release from
+   [html5boilerplate.com](http://html5boilerplate.com/) or a custom build from
+   [Initializr](http://www.initializr.com).
+2. Clone the git repo — `git clone
+   https://github.com/h5bp/html5-boilerplate.git` - and checkout the tagged
+   release you'd like to use.
+
 
 ## Features
 
-* Clean and minimal
-* Dark mode (Auto detect from OS)
-* Responsive
-* Supports tags
-* Social media links
-* Google Analytics integration
-* Syntax highlighting
-* Twitter cards and opengraph tags support
-* Disqus comments
-* Hugo RSS feeds
-* Custom CSS/JS
+* HTML5 ready. Use the new elements with confidence.
+* Cross-browser compatible (Chrome, Opera, Safari, Firefox 3.6+, IE6+).
+* Designed with progressive enhancement in mind.
+* Includes [Normalize.css](http://necolas.github.com/normalize.css/) for CSS
+  normalizations and common bug fixes.
+* The latest [jQuery](http://jquery.com/) via CDN, with a local fallback.
+* The latest [Modernizr](http://modernizr.com/) build for feature detection.
+* IE-specific classes for easier cross-browser control.
+* Placeholder CSS Media Queries.
+* Useful CSS helpers.
+* Default print CSS, performance optimized.
+* Protection against any stray `console.log` causing JavaScript errors in
+  IE6/7.
+* An optimized Google Analytics snippet.
+* Apache server caching, compression, and other configuration defaults for
+  Grade-A performance.
+* Cross-domain Ajax and Flash.
+* "Delete-key friendly." Easy to strip out parts you don't need.
+* Extensive inline and accompanying documentation.
 
-## Installation
 
-From your Hugo site run the following.
+## Documentation
 
-```sh
-cd themes
-git clone https://github.com/vividvilla/ezhil.git
-```
+Take a look at the [documentation table of contents](doc/TOC.md). This
+documentation is bundled with the project, which makes it readily available for
+offline reading and provides a useful starting point for any documentation you
+want to write about your project.
 
-For more information read the [official setup guide](https://gohugo.io/overview/installing/) of Hugo.
 
-## Configuration
+## Contributing
 
-```toml
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My personal blog"
-theme = "ezhil"
-
-copyright = "© Copyright notice"
-
-# Enable syntax highlighting.
-pygmentsstyle = "solarized-dark"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
-
-# Your Google analytics code.
-googleAnalytics = "UA-123-45"
-# Your Disqus sortname.
-disqusShortname = "localhost"
-
-# Number of posts to show in recent posts list (Optional). Defaults to 10.
-paginate = 10
-
-# Number of characters to show in summary.
-summaryLength = 20
-
-[params]
-    # Blog subtitle which appears below blog title. Supports markdown.
-    subtitle = "Clean and minimal personal [blog theme for Hugo](https://github.com/vividvilla/ezhil)"
-
-    # Content types which are included in home page recent posts list.
-    mainSections = ["posts"]
-
-    # Content types which are excludes Disqus comments.
-    disableDisqusTypes = ["page"]
-
-    # If social media links are enabled then enable this to fetch icons from CDN instead of hosted on your site.
-    featherIconsCDN = true
-
-    # Specify favicon (icons/i.png maps to static/icons/i.png). No favicon if not defined.
-    favicon = "icons/myicon.png"
-
-    # Switch to dark mode or auto detect mode from OS (Optional).
-    # "dark" will set mode to dark and "auto" will switch to dark mode if OS is in dark mode.
-    mode = "dark" # "dark" or "auto"
-
-    # Custom CSS added to default styles. Files added to `static` folder is copied as it is to
-    # root by Hugo. For example if you have custom CSS file under `static/css/custom.css` then
-    # you can specify custom css path as `css/custom.css`.
-    customCSS = "css/custom.css"
-    # Custom CSS added to dark mode style.
-    customDarkCSS = "css/custom-dark.css"
-
-    # Custom list of Javascript files to load. Just like custom CSS you can place js files under
-    # `static/js` folder and specify path here as `js/script-name.js`. You can also specify full url,
-    # for example you may want to include external JS library.
-    customJS = ["js/abc.js", "js/xyz.js", "https://code.jquery.com/jquery-3.4.1.js"]
-
-# Main menu which appears below site header.
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-
-[[menu.main]]
-name = "All posts"
-url = "/posts"
-weight = 2
-
-[[menu.main]]
-name = "About"
-url = "/about"
-weight = 3
-
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 4
-
-# Social media links which shows up on site header.
-# Uses feather icons for icons. You can [search icon names from here](https://feathericons.com/).
-[[params.social]]
-name = "Github"
-icon = "github"
-url = "https://github.com/vividvilla/ezhil"
-
-[[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://twitter.com/gohugoio"
-
-# Enable tags.
-[taxonomies]
-   tag = "tags"
-```
-
-## Content type
-
-You can specify content type with field `type` in your content. For example static pages can be set as type `page` which are excluded from recent posts and all posts page. You can use site params `mainSections` and `disableDisqusTypes` to control which page types are excluded from recent posts and Disqus comments respectively.
-
-```md
----
-title: "About"
-date: 2019-04-19T21:37:58+05:30
-type: "page"
----
-
-This is some static page where you can write about yourself.
-```
-
-## Disable Disqus
-
-You can disable Disqus site wide if you don't set `DisqusShortname` param in config. You can also disable Disqus from contents selectively or for all contents with certain content type. Use content field `disqus` to disable Disqus from certain contents.
-
-```md
----
-title: "Content without comments"
-date: 2019-04-19T21:37:58+05:30
-disqus: false
----
-
-This is a content without Disqus comments.
-```
-
-You can also disable Disqus for certain content types by using site param `disableDisqusTypes`. You can check config section above for example.
-
-## Credits
-
-* [Feather Icons](https://feathericons.com/)
-* [Zen habits](https://zenhabits.net/) for demo content
+Anyone and everyone is welcome to [contribute](CONTRIBUTING.md). Hundreds of
+developers have helped make the HTML5 Boilerplate what it is today.
