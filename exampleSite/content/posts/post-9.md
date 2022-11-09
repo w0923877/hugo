@@ -9,6 +9,11 @@ categories: [memories]
 <p>Quando estava no final do ensino médio, a <strong>Ana Clara conheceu o <strong>Alexandre. Ela lembra como se fosse ontem: ele estava sentado no fundo da sala, com o sol batendo em seu rosto.</span></p>
 <!--more-->
 
+<figure>
+    <img src="https://s.glbimg.com/jo/g1/f/original/blog/ad62e2f3-2e74-4339-954b-2f7c5141c685_CasalAmor.jpg"/> <figcaption>
+            <h4><a href="https://commons.wikimedia.org/w/index.php?curid=10604319">It's all about love</a></h4>
+        </figcaption>
+</figure>
 
 <p>Naquele momento,<strong> a Ana se apaixonou — bem no modelo da adolescência, que a gente apaixona e desapaixona toda hora.</span></p>
 <blockquote><p>Como sempre foi a “pra frente” da turma, ela não disfarçou interesse, mas logo recebeu <strong>uma rasteira em seus planos: ele já estava apaixonado por outra menina da sala.</span></p></blockquote>
