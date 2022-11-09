@@ -7,21 +7,22 @@
 		{{ partial "head.html" . }}
 
 		{{ if isset .Data "Term" }}
-			<h2>{{ .Data.Term }}</h2>
+			<h1>Entries tagged - "{{ .Data.Term }}"</h1>
 		{{ else }}
-		<h2 class="page-title">{{ .Name }}</h2>
+			<h1 class="page-title">All articles</h1>
 		{{ end }}
-		
-		{{ .Content }}
 
-		<ul class="posts flat">
-			{{ $paginator := .Paginate (where .Data.Pages "Params.hidden" "ne" true) }}
-			{{ range $paginator.Pages }}
-				<li class="post">
-					{{ partial "post-preview.html" . }}
-				</li>
+		{{ with .Content }}{{ . }}{{ end }}
+
+		<ul class="posts">
+			{{- range .Data.Pages -}}
+			{{- if (in (.Site.Params.excludedTypes | default (slice "page")) .Type) -}}
+			{{- else -}}
+			<li class="post">
+				<a href="{{ .RelPermalink }}">{{.Title}}</a> <span class="meta">{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</span>
+			</li>
 			{{- end -}}
-			{{ template "partials/paginator.html" . }}
+			{{- end -}}
 		</ul>
 	</div>
 

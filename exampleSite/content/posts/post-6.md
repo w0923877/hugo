@@ -1,7 +1,6 @@
 ---
 title: "Hugo shortcodes"
 date: 2018-03-18T12:13:36+05:30
-images: ["https://images.unsplash.com/photo-1560032779-0a8809186efd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"]
 description: Here is a demo of all shortcodes available in Hugo.
 ---
 
@@ -28,3 +27,6 @@ description: Here is a demo of all shortcodes available in Hugo.
 
 {{< vimeo id="146022717" >}}
 
+## Instagram
+
+{{< instagram BWNjjyYFxVx >}}
