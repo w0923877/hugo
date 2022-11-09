@@ -1,7 +1,7 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "Ink"
-theme = "ink"
+baseURL = "http://memories.geanramos.com/"
+languageCode = "pt-br"
+title = "the memories"
+theme = "the memories"
 paginate = 5
 
 copyright = "© Copyright notice"
@@ -11,13 +11,13 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 googleAnalytics = "UA-123-45"
-disqusShortname = "ink-demo"
+disqusShortname = "geanramos"
 
 [params]
-	subtitle = "Crisp, minimal personal [blog theme for Hugo](https://github.com/knadh/hugo-ink)"
+	subtitle = "[histórias que emocionam.](./) não tão longas quanto um romance, mas suficientes para te fazer sentir."
 
 	# Optional 64x64 avatar image.
-	avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
+	avatar = "./images/logo.jpg"
 
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
@@ -36,12 +36,12 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "All posts"
+name = "Memórias"
 url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "About"
+name = "Sobre"
 url = "/about"
 weight = 3
 
@@ -51,9 +51,9 @@ url = "/tags"
 weight = 4
 
 [[params.social]]
-name = "Github"
-icon = "github"
-url = "https://github.com/knadh/hugo-ink"
+name = "instagram"
+icon = "instagram"
+url = "https://www.instagram.com/geanramus/"
 
 [[params.social]]
 name = "RSS"
