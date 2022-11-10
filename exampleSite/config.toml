@@ -1,4 +1,4 @@
-baseURL = "http://memories.geanramos.com/"
+baseURL = "https://memories.geanramos.com/"
 languageCode = "pt-br"
 title = "the memories"
 theme = "the memories"
@@ -14,10 +14,10 @@ googleAnalytics = "UA-23205651-1"
 disqusShortname = "geanramos"
 
 [params]
-	subtitle = "[histórias que emocionam.](#) não tão longas quanto um romance, mas suficientes para te fazer sentir."
+	subtitle = "histórias que emocionam."
 
 	# Optional 64x64 avatar image.
-	avatar = https://i1.wp.com/geanramos.github.io/hugo/images/logo.png?w=128"
+	avatar = https://i0.wp.com/geanramos.github.io/hugo/images/logo.png?w=128"
 
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
