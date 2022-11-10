@@ -1,10 +1,12 @@
 <div class="footer wrapper">
 	<nav class="nav">
-		<div>{{ dateFormat "2006" now }} {{ with .Site.Copyright }} {{ . | safeHTML }} | {{ end }} feito com <3 <a href="https://www.instagram.com/geanramus/">@geanramus</a></div>
+		<div>{{ with .Site.Copyright }} {{ . }} | {{ end }} <a href="https://instagr.am/geanme_">@geanramus</a> | tema <a href="#hugo">Hugo</a></div>
 	</nav>
 </div>
 
+{{ if not .Site.IsServer }}
 {{ template "_internal/google_analytics_async.html" . }}
+{{ end }}
 {{- with .Site.Params.Social -}}
 <script>feather.replace()</script>
 {{- end -}}
