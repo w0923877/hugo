@@ -17,14 +17,14 @@ disqusShortname = "geanramos"
 	subtitle = "histórias que emocionam."
 
 	# Optional 64x64 avatar image.
-	avatar = https://geanramos.github.io/hugo/images/logo.png"
+	avatar = "https://i1.wp.com/geanramos.github.io/hugo/images/logo.png?w=128"
 
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
 	
 	featherIconsCDN = true
 
-	mode = "auto" # "dark" or "auto"
+	mode = "dark" # "dark" or "auto"
 	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
 	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
 	# customJS = ["js/custom.js", "js/custom1.js"]  # Custom JS scripts.
