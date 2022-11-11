@@ -6,7 +6,7 @@ tags: [stories]
 categories: [memories]
 ---
 
-<img src="https://i1.wp.com/stories.geanramos.com/uploads/2022/770c6bd2f8.png?resize=400,225" width="600" height="337" alt="">
+<img src="https://i1.wp.com/stories.geanramos.com/uploads/2022/770c6bd2f8.png?resize=400,225" width="400" height="225" alt="">
 
 Luciana tinha apenas 18 anos quando conheceu José. Jovens, livres e desimpedidos, viveram o que costumamos chamar de amor de verão — desses que não sobem serra.
 
