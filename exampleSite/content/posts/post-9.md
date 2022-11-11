@@ -10,7 +10,7 @@ categories: [memories]
 <!--more-->
 
 <figure>
-    <img src="https://s.glbimg.com/jo/g1/f/original/blog/ad62e2f3-2e74-4339-954b-2f7c5141c685_CasalAmor.jpg"/> <figcaption>
+    <img src="https://i1.wp.com/s.glbimg.com/jo/g1/f/original/blog/ad62e2f3-2e74-4339-954b-2f7c5141c685_CasalAmor.jpg?resize=400,225"/> <figcaption>
             <h4><a href="https://commons.wikimedia.org/w/index.php?curid=10604319">It's all about love</a></h4>
         </figcaption>
 </figure>
