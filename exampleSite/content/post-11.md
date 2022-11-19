@@ -6,7 +6,7 @@ tags: [stories]
 categories: [memories]
 ---
 
-(https://i1.wp.com/geanramos.github.io/hugo/images/minha-menina.jpg?resize=400,225)
+![](https://i1.wp.com/geanramos.github.io/hugo/images/minha-menina.jpg?resize=400,225)
 
 Era uma manhã chuvosa de terça-feira, e a professora Luana estava tendo mais um dia corrido. Presa em seus milhares de afazeres, ela pouco se comovia com o que já era rotina.
 
