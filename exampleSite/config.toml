@@ -14,7 +14,7 @@ googleAnalytics = "UA-23205651-1"
 disqusShortname = "geanramos"
 
 [params]
-	subtitle = "histórias que emociona.♥️)"
+	subtitle = "histórias que emocionam"
 
 	# Optional 64x64 avatar image.
 	avatar = "https://img.freepik.com/free-vector/cute-unicorn-reading-book-cartoon-vector-illustration-animal-education-concept-isolated-vector-flat-cartoon-style_138676-1945.jpg?w=128"
@@ -51,14 +51,9 @@ url = "/tags"
 weight = 4
 
 [[params.social]]
-name = "Instagram"
-icon = "instagram"
-url = "https://instagr.am/geanramus"
-
-[[params.social]]
-name = "RSS"
-icon = "rss"
-url = "/index.xml"
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/geanramos"
 
 [taxonomies]
    tag = "tags"
