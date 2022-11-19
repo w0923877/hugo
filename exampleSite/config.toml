@@ -1,7 +1,7 @@
 baseURL = "https://memories.geanramos.com/"
 languageCode = "pt-br"
-title = "the memories"
-theme = "the memories"
+title = "The Memories"
+theme = "ink"
 paginate = 5
 
 copyright = "© Copyright"
@@ -14,10 +14,10 @@ googleAnalytics = "UA-23205651-1"
 disqusShortname = "geanramos"
 
 [params]
-	subtitle = "histórias que emocionam."
+	subtitle = "histórias que emociona.♥️)"
 
 	# Optional 64x64 avatar image.
-	avatar = "https://i1.wp.com/geanramos.github.io/hugo/images/logo.png?w=128"
+	avatar = "https://img.freepik.com/free-vector/cute-unicorn-reading-book-cartoon-vector-illustration-animal-education-concept-isolated-vector-flat-cartoon-style_138676-1945.jpg?w=128"
 
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
@@ -36,7 +36,7 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Memórias"
+name = "Memories"
 url = "/posts"
 weight = 2
 
@@ -51,9 +51,9 @@ url = "/tags"
 weight = 4
 
 [[params.social]]
-name = "instagram"
+name = "Instagram"
 icon = "instagram"
-url = "https://www.instagram.com/geanramus/"
+url = "https://instagr.am/geanramus"
 
 [[params.social]]
 name = "RSS"
