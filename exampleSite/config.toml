@@ -14,10 +14,10 @@ googleAnalytics = "UA-23205651-1"
 disqusShortname = "geanramos"
 
 [params]
-	subtitle = "histórias que emocionam"
+	subtitle = "histórias que emocionam💖"
 
 	# Optional 64x64 avatar image.
-	avatar = "https://img.freepik.com/free-vector/cute-unicorn-reading-book-cartoon-vector-illustration-animal-education-concept-isolated-vector-flat-cartoon-style_138676-1945.jpg?w=128"
+	avatar = "https://pbs.twimg.com/profile_images/833573742353711107/T45OvTDl_400x400.jpg"
 
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
@@ -36,24 +36,24 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Memories"
-url = "/posts"
-weight = 2
-
-[[menu.main]]
 name = "Sobre"
 url = "/about"
-weight = 3
+weight = 2
 
 [[menu.main]]
 name = "Tags"
 url = "/tags"
+weight = 3
+
+[[menu.main]]
+name = "Instagram"
+url = "https://instagr.am/geanramus"
 weight = 4
 
 [[params.social]]
 name = "Twitter"
 icon = "twitter"
-url = "https://twitter.com/geanramos"
+url = "https://twitter/geanramos"
 
 [taxonomies]
    tag = "tags"
