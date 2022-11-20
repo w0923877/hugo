@@ -6,7 +6,7 @@ tags: [memories]
 categories: [stories]
 ---
 
-![](https://i1.wp.com/ xxx ?resize=400,225
+![](https://i1.wp.com/64.media.tumblr.com/168648ea83273662610a7495a1f35bb6/tumblr_mn54pfedrl1qb61u2o1_640.jpg?resize=400,225)
 Em uma manhã fria de domingo, os pais da Bruna chegaram em casa com uma surpresa. Ela viu uma sacola cheia de brinquedos, mas logo entendeu que a novidade não era essa.
 <!--more-->
 Encarando o embrulho, eles lhe disseram que aquele era um presente da Bia e que a casa tinha ficado mais cheia.
