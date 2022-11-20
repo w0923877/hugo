@@ -1,137 +1,43 @@
 ---
-title: "Markdown Syntax Guide"
-date: "2019-03-11"
-description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-tags: [markdown, css, html, themes]
-categories: [themes, syntax]
+title: "O melhor presente"
+date: "2022-08-07"
+description: "Como dizia Hemingway, de todos os presentes da natureza para a raça humana."
+tags: [memories]
+categories: [stories]
 ---
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+![](https://i1.wp.com/ xxx ?resize=400,225
+Em uma manhã fria de domingo, os pais da Bruna chegaram em casa com uma surpresa. Ela viu uma sacola cheia de brinquedos, mas logo entendeu que a novidade não era essa.
 <!--more-->
+Encarando o embrulho, eles lhe disseram que aquele era um presente da Bia e que a casa tinha ficado mais cheia.
 
-## Headings
+Bruna olhou pra sua mãe e no lugar da barriga enorme que ela ganhara nos últimos meses, estava a Beatriz: uma pequena criatura, com olhos doces e curiosos.
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+Como dizia Hemingway, de todos os presentes da natureza para a raça humana, o que é mais doce para o homem do que as crianças?
+A Bruna não tinha nem 3 anos, mas aprendeu a cuidar da Bia igual gente grande. Ela trocava suas fraldas, dava bronca e escolhia seus vestidos como se estivesse brincando de boneca.
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+Os anos foram passando, elas foram crescendo e, como não poderia deixar de ser, vieram as brigas.
 
-## Paragraph
+Seus pais tentaram de tudo para melhorar a situação: cortaram televisão, chocolate e até viagem pro sítio.
+Nenhum castigo funcionou, até que eles proibiram as duas de conversar. Nessa tentativa despretensiosa, acabaram acertando em cheio: elas não conseguiram ficar longe uma da outra.
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
+Depois do susto, a Bruna descobriu que aquela manhã fria de domingo tinha sido seu dia de sorte — junto com o embrulho de brinquedos, ganhou não só uma irmã, mas sua melhor amiga.
 
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
+Assim, elas atravessaram a adolescência juntas. Compartilharam as notas do colégio, o primeiro beijo, as turmas de amigos e todas as delícias e dificuldades de encontrarem seu lugar no mundo.
 
-## Blockquotes
+Porém, quando chegou a hora de fazer vestibular… Elas se separaram.
+A Bruna foi pra Minas Gerais e a Bia, pra Santa Catarina. Com dois estados de distância, a presença física ficou um pouco mais difícil, mas o vínculo e a sintonia permaneceram.
 
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
+Perto ou longe, elas reviram os olhos nas mesmas situações. Choram de raiva e dão gargalhada com a mesma intensidade e não precisam falar nada pra se entenderem: um olhar basta.
 
-#### Blockquote without attribution
+Por essas e outras, as duas dizem que são almas gêmeas, mas estão longe de serem iguais. Aliás, é na desarmonia que elas se complementam.
+Enquanto a Bruna chega no aeroporto com 3h de antecedência, a Bia perde o voo, conhece alguém e muda o destino — afinal, como tem tatuado, “la vida es el arte del encuentro”.
 
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use *Markdown syntax* within a blockquote.
+No carro da Bia, você encontra tudo: skate, barraca e roupa de surf. Segundo a Bruna, o porta-malas cheio não é excesso de preparação, mas uma demonstração de coragem: se der vontade, ela só vai.
 
-#### Blockquote with attribution
+Algumas pessoas não sabem o que é depositar a felicidade em alguém, mas, para a Bruna, é simples: quando a Bia está feliz, ela fica feliz também.
+Hoje, nessa manhã fria de domingo, faz 24 anos que a Bia chegou. Em cidades diferentes, nem sempre dá pra comemorar junto, mas elas aprenderam que isso pouco importa: a distância não deixa longe o que está dentro.
 
-> Don't communicate by sharing memory, share memory by communicating.</p>
-> — <cite>Rob Pike[^1]</cite>
+Contar essa história foi o jeito que a Bruna encontrou de agradecer a Bia por ter sido o melhor presente que ela já ganhou, e por nunca deixá-la esquecer da criança que ainda existe nela.
 
-
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
-
-## Tables
-
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
-
-   Name | Age
---------|------
-    Bob | 27
-  Alice | 23
-
-#### Inline Markdown within tables
-
-| Inline&nbsp;&nbsp;&nbsp;     | Markdown&nbsp;&nbsp;&nbsp;  | In&nbsp;&nbsp;&nbsp;                | Table      |
-| ---------- | --------- | ----------------- | ---------- |
-| *italics*  | **bold**  | ~~strikethrough~~&nbsp;&nbsp;&nbsp; | `code`     |
-
-## Code Blocks
-
-#### Code block with backticks
-
-```
-html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-```
-#### Code block indented with four spaces
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-      <meta charset="UTF-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
-
-#### Code block with Hugo's internal highlight shortcode
-{{< highlight html >}}
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-{{< /highlight >}}
-
-## List Types
-
-#### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-#### Unordered List
-
-* List item
-* Another item
-* And another item
-
-#### Nested list
-
-* Item
-1. First Sub-item
-2. Second Sub-item
-
-## Other Elements — abbr, sub, sup, kbd, mark
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
-
-
+Quem nasceu com a mesma sorte, sabe que se por acaso perder o rumo, é fácil voltar para o eixo: ter um irmão é ter sua essência guardada em outro coração.
