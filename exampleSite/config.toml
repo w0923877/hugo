@@ -4,7 +4,7 @@ title = "The Memories"
 theme = "ink"
 paginate = 5
 
-copyright = "© Copyright"
+copyright = "The Memories"
 
 pygmentsstyle = "vs"
 pygmentscodefences = true
@@ -14,7 +14,7 @@ googleAnalytics = "UA-23205651-1"
 disqusShortname = "geanramos"
 
 [params]
-	subtitle = "histórias que emocionam💖"
+	subtitle = "histórias que emocionam."
 
 	# Optional 64x64 avatar image.
 	avatar = "https://pbs.twimg.com/profile_images/833573742353711107/T45OvTDl_400x400.jpg"
@@ -54,6 +54,11 @@ weight = 4
 name = "Twitter"
 icon = "twitter"
 url = "https://twitter/geanramos"
+
+[[params.social]]
+name = "Telegram"
+icon = "telegram"
+url = "https://t.me/+1CfO3FKK6ts4Y2Ex"
 
 [taxonomies]
    tag = "tags"
