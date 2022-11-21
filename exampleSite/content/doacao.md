@@ -5,3 +5,4 @@ type: "page"
 ---
 
 This is some static page where you can write about yourself.
+![Pague-me um café](https://nubank.com.br/pagar/13s98d/RqJRPjJZJB)
