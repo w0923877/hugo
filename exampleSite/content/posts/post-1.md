@@ -62,9 +62,5 @@ Brunch = Breakfast + Lunch. Uma boa opção para comer assim que acabar de ler �
 A conexão entre caminhar e ter boas ideias. Charles Darwin, Steve Jobs e vários outros tinham essa prática para pensar. Poder ser uma boa leitura.
 
 Uma playlist musical bem feita vale mais que muita gente. [Clique para ouvir,](https://open.spotify.com/playlist/0DbDNfgIHY6nvtzOakCU5l) aproveite o que preparamos e seja feliz no seu domingo. PS: Comece pela primeira.
-Marque o @the_memoriesx nos stories. Hoje é um dia especial. Queremos ver vocês por aqui novamente.
+Marque o [the memories](https://t.me/the_menoriesx) nos stories. Hoje é um dia especial. Queremos ver vocês por aqui novamente.
 A próxima.
-
-https://br.depositphotos.com/v/4cgil7-74327550 via @depositphotos 
-
-https://thestories.beehiiv.com/p/primeira-de-todas
