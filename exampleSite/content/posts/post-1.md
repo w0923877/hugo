@@ -1,62 +1,70 @@
 ---
-title: "Primer: When You Have Too Much to Do"
+title: "a primeira de todas"
 date: 2018-03-18T02:01:58+05:30
-description: "You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more."
-tags: [Primer, todo]
+description: "o primeiro passo é sempre o mais importante. sem ele, nada acontece. na vida, nos negócios e, claro, no amor. que te inspire e emocione de alguma forma. Nem só de notícias vive o mundo"
+tags: [memories]
 ---
 
-You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.
+o primeiro passo é sempre o mais importante. sem ele, nada acontece. na vida, nos negócios e, claro, no amor. que te inspire e emocione de alguma forma.
 
-It all keeps piling up, and it can feel overwhelming.
+Nem só de notícias vive o mundo
+INTRODUÇÃO
 
-How do you keep up with it all? How do you find focus and peace and get stuff accomplished when you have too much on your plate?
+![](https://i1.wp.com/m1.quebecormedia.com/emp/cl_prod/canadian_living-_-91722954818301b6a13bce7396c4a45586325a5f-_-Heart1453925015.jpg?resize=400,225)
 
-In this primer, I’ll look at some key strategies and tactics for taking on an overloaded life with an open heart, lots of energy, and a smile on your face.
+Todo mundo adora uma história de amor. Seja pra contar, ouvir ou simplesmente imaginar. Com mais ou menos detalhes, todas têm seu lugar. A partir de hoje, todo domingo, às 08:08, você tem um encontro marcado conosco.
 
-## The First Step: Triage
+Nossa intenção é simples… Queremos te fazer sentir, seja lá o que for. A ideia é que você comece seu domingo de forma leve e com emoção.
 
-Whether you’re just starting your day, or you’re in the middle of the chaos and just need to find some sanity … the first step is to get into triage mode.
+Nem todas as histórias terão um final feliz, mas todas serão verdadeiras e baseadas em fatos reais. Essa é a única regra.
+De onde veio? Inspirado na coluna “Modern Love” inaugurada pelo The New York Times em 2004, resolvemos criar o [The Memories]
 
-Triage, as you probably know, is sorting through the chaos to prioritize: what needs to be done now, what needs to be done today, what needs to be done this week, and what can wait? You’re looking at urgency, but also what’s meaningful and important.
+Depois de 17 anos da criação, a série do jornal nova-iorquino deu origem a grandes filmes, um dos [podcasts mais ouvidos do mundo](https://www.nytimes.com/column/modern-love-podcast) e a essa famosa [série do Amazon Prime Video](https://youtu.be/yrN8zKewtkU).
 
-Here’s what you might do:
+Que a nossa primeira edição seja também o início de algo grande. Obrigado por dividir esse momento com nossa equipe. Sem mais delongas, é hora de se emocionar.
 
-* Pick out the things that need to be done today. Start a Short List for things you’re going to do today. That might be important tasks for big projects, urgent tasks that could result in damage if you don’t act, smaller admin tasks that you really should take care of today, and responding to important messages. I would recommend being ruthless and cutting out as much as you can, having just 5 things on your plate if that’s at all possible. Not everything needs to be done today, and not every email needs to be responded to.
-* Push some things to tomorrow and the rest of the week. If you have deadlines that can be pushed back (or renegotiated), do that. Spread the work out over the week, even into next week. What needs to be done tomorrow? What can wait a day or two longer?
-* Eliminate what you can. That might mean just not replying to some messages that aren’t that important and don’t really require a reply. It might mean telling some people that you can’t take on this project after all, or that you need to get out of the commitment that you said you’d do. Yes, this is uncomfortable. For now, just put them on a list called, “To Not Do,” and plan to figure out how to get out of them later.
+BASEADO EM UMA HISTÓRIA REAL
 
-OK, you have some breathing room and a manageable list now! Let’s shrink that down even further and just pick one thing.
+![](https://i1.wp.com/miro.medium.com/max/1100/1*jU-SQzT6zHfpcAEXv83D-w.png?=resize=400,225)
 
-## Next: Focus on One Thing
+Se não bate forte, não é…
+Neusa estava noiva. Seu coração não batia mais forte, mas diziam que casamento era assim mesmo — palpitação no peito era coisa de adolescente.
 
-With a lot on your plate, it’s hard to pick one thing to focus on. But that’s exactly what I’m going to ask you to do.
+Acostumada com a cidade grande, foi pro interior a convite de uma amiga — quem sabe a mudança de ares não dava uma empolgação a mais pros seus dias? Chegando na casa de Tereza, Neusa bateu o olho na janela e avistou Geraldo.
 
-Pick one thing, and give it your focus. Yes, there are a lot of other things you can focus on. Yes, they’re stressing you out and making it hard to focus. But think about it this way: if you allow it all to be in your head all the time, that will always be your mode of being. You’ll always be thinking about everything, stressing out about it all, with a frazzled mind … unless you start shifting.
+“Quem era aquele?” — Tereza o apresentou como seu irmão e sugeriu que trocassem uma ideia, afinal ambos eram noivos… Teriam muita figurinha pra trocar.
 
-The shift:
+Conversaram um pouco e todas as palavras belas que ela lera nos romances — e pensava não se aplicarem à vida real — fizeram sentido.
+No dia seguinte, todos da cidade estavam se arrumando pro baile de mais tarde. Enquanto Neusa se maquiava, seu tio a vetou de comparecer no salão: “Noiva não vai pra baile.”
 
-* Pick something to focus on. Look at the triaged list from the first section … if you have 5-6 things on this Short List, you can assess whether there’s any super urgent, time-sensitive things you need to take care of. If there are, pick one of them. If not, pick the most important one — probably the one you have been putting off doing.
-* Clear everything else away. Just for a little bit. Close all browser tabs, turn off notifications, close open applications, put your phone away.
-* Put that one task before you, and allow yourself to be with it completely. Pour yourself into it. Think of it as a practice, of letting go (of everything else), of focus, of radical simplicity.
+Ela respondeu: ah é? O problema é esse? Então tá resolvido. Mandou uma carta pro seu noivo e terminou o que não deveria nem ter começado.
 
-When you’re done (or after 15-20 minutes have gone by at least), you can switch to something else. But don’t allow yourself to switch until then.
+Todos a chamaram de doida, mas a imagem de Geraldo de camisa branca na janela falou mais alto (ela se lembra até hoje).
 
-By closing off all exits, by choosing one thing, by giving yourself completely to that thing … you’re now in a different mode that isn’t so stressful or spread thin. You’ve started a shift that will lead to focus and sanity.
+Sabendo da novidade, Geraldo mandou um recado, pedindo para que Neusa se encontrasse com ele no baile. Neusa disse que se ele quisesse encontrar com ela, ele teria que buscá-la (que história é essa de encontrar lá?).
 
-## Third: Schedule Time to Simplify
+Bukowski dizia que o amor é uma espécie de preconceito. Afinal, como pode dizer que ama uma pessoa quando há dez mil outras no mundo que você amaria mais se conhecesse? Não sei. Mas talvez seja esta a magia dos encontros: bastou um pra que Neusa e Geraldo soubessem que o milagre estava instalado.
 
-Remember the To Not Do list above? Schedule some time this week to start reducing your projects, saying no to people, getting out of commitments, crossing stuff off your task list … so that you can have some sanity back.
+Depois do baile, Geraldo também terminou o noivado e começaram a namorar. Durante 1 ano se corresponderam por cartas (ela da cidade grande, ele do interior) até que resolveram se casar.
 
-There are lots of little things that you’ve said “yes” to that you probably shouldn’t have. That’s why you’re overloaded. Protect your more important work, and your time off, and your peace of mind, by saying “no” to things that aren’t as important.
+60 anos depois, seguem casados. 12 filhos, 18 netos e 2 bisnetos. A vida não é tão agitada quanto antigamente mas os dois continuam se escolhendo todos os dias. E assim vão caminhando, na certeza de um amor que não é bom todo dia, mas é bom toda a vida.
 
-Schedule the time to simplify — you don’t have to do it today, but sometime soon — and you can then not have to worry about the things on your To Not Do list until then.
+Quem escreve isso é uma das netas. Até por isso, essa foi a nossa primeira história. Até a próxima.
 
-## Fourth: Practice Mindful Focus
+Easy like sunday morning
 
-Go through the rest of the day with an attitude of “mindful focus.” That means that you are doing one thing at a time, being as present as you can, switching as little as you can.
+![](https://i1.wp.com/st2.depositphotos.com/2252541/6279/i/950/depositphotos_62790683-stock-photo-breakfast-with-bacon-eggs-pancakes.jpg!resize=400,225)
 
-Think of it as a settling of the mind. A new mode of being. A mindfulness practice (which means you won’t be perfect at it).
+Tem coisa melhor que domingo de manhã? Um dia sem rotina, sem correria, sem conflito. Um bom dia para fazer só aquilo que se quer. By the way, aqui estão três coisas boas para seu domingo. Use se quiser…
 
-As you practice mindful focus, you’ll learn to practice doing things with an open heart, with curiosity and gratitude, and even joy. Try these one at a time as you get to do each task on your Short List.
+Brunch = Breakfast + Lunch. Uma boa opção para comer assim que acabar de ler é essa receita aqui. Clique para ver ou clique para ler.
 
-You’ll find that you’re not so overloaded, but that each task is just perfect for that moment. And that’s a completely new relationship with the work that you do, and a new relationship with life.
+A conexão entre caminhar e ter boas ideias. Charles Darwin, Steve Jobs e vários outros tinham essa prática para pensar. Poder ser uma boa leitura.
+
+Uma playlist musical bem feita vale mais que muita gente. [Clique para ouvir,](https://open.spotify.com/playlist/0DbDNfgIHY6nvtzOakCU5l) aproveite o que preparamos e seja feliz no seu domingo. PS: Comece pela primeira.
+Marque o @the_memoriesx nos stories. Hoje é um dia especial. Queremos ver vocês por aqui novamente.
+A próxima.
+
+https://br.depositphotos.com/v/4cgil7-74327550 via @depositphotos 
+
+https://thestories.beehiiv.com/p/primeira-de-todas
