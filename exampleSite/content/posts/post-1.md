@@ -1,7 +1,7 @@
 ---
 title: "a primeira de todas"
 date: 2018-03-18T02:01:58+05:30
-description: "o primeiro passo é sempre o mais importante. sem ele, nada acontece. na vida, nos negócios e, claro, no amor. que te inspire e emocione de alguma forma. Nem só de notícias vive o mundo"
+description: "o primeiro passo é sempre o mais importante. sem ele, nada acontece. na vida, nos negócios e, claro, no amor."
 tags: [memories]
 ---
 
@@ -25,7 +25,7 @@ Que a nossa primeira edição seja também o início de algo grande. Obrigado po
 
 BASEADO EM UMA HISTÓRIA REAL
 
-![](https://i1.wp.com/miro.medium.com/max/1100/1*jU-SQzT6zHfpcAEXv83D-w.png?=resize=400,225)
+![](https://i1.wp.com/miro.medium.com/max/1100/1*jU-SQzT6zHfpcAEXv83D-w.png?resize=400,225)
 
 Se não bate forte, não é…
 Neusa estava noiva. Seu coração não batia mais forte, mas diziam que casamento era assim mesmo — palpitação no peito era coisa de adolescente.
@@ -53,7 +53,7 @@ Quem escreve isso é uma das netas. Até por isso, essa foi a nossa primeira his
 
 Easy like sunday morning
 
-![](https://i1.wp.com/st2.depositphotos.com/2252541/6279/i/950/depositphotos_62790683-stock-photo-breakfast-with-bacon-eggs-pancakes.jpg!resize=400,225)
+![](https://i1.wp.com/st2.depositphotos.com/2252541/6279/i/950/depositphotos_62790683-stock-photo-breakfast-with-bacon-eggs-pancakes.jpg?resize=400,225)
 
 Tem coisa melhor que domingo de manhã? Um dia sem rotina, sem correria, sem conflito. Um bom dia para fazer só aquilo que se quer. By the way, aqui estão três coisas boas para seu domingo. Use se quiser…
 
@@ -62,5 +62,5 @@ Brunch = Breakfast + Lunch. Uma boa opção para comer assim que acabar de ler �
 A conexão entre caminhar e ter boas ideias. Charles Darwin, Steve Jobs e vários outros tinham essa prática para pensar. Poder ser uma boa leitura.
 
 Uma playlist musical bem feita vale mais que muita gente. [Clique para ouvir,](https://open.spotify.com/playlist/0DbDNfgIHY6nvtzOakCU5l) aproveite o que preparamos e seja feliz no seu domingo. PS: Comece pela primeira.
-Marque o [the memories](https://t.me/the_menoriesx) nos stories. Hoje é um dia especial. Queremos ver vocês por aqui novamente.
+Marque o [the memories](https://t.me/the_memoriesx) nos stories. Hoje é um dia especial. Queremos ver vocês por aqui novamente.
 A próxima.
