@@ -1,6 +1,6 @@
 ---
-title: "Camisa da seleção Brasileira com nome Errado"
-description: ""
+title: "Camisa da seleção com nome Errado"
+description: "Pedro Gurgel compartilhou, em suas redes sociais, a surpresa ao receber uniformes da Seleção com nome errado 😤"
 date: 2022-11-24T12:13:38+05:30
 ---
 
