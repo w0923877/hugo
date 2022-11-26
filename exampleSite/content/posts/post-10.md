@@ -6,7 +6,7 @@ tags: [stories]
 categories: [memories]
 ---
 
-![enter image description here](https://1.bp.blogspot.com/-MP39YenmPEo/YJmdduzZIXI/AAAAAAABydw/HMVejIoIt0YRLs6bON6MoqVsTWPQhCVAACLcBGAsYHQ/s400/184623182_312640796891322_7192130901925716606_n.jpg)
+![](https://i1.wp.com/imageup.me/images/av-e-neta.jpg?resize=400,225)
 
 **Luciana** tinha apenas 18 anos quando conheceu **José**. Jovens, livres e desimpedidos, viveram o que costumamos chamar de **amor de verão** — desses que não sobem serra.
 
