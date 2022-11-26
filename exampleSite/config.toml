@@ -17,7 +17,7 @@ disqusShortname = "geanramos"
 	subtitle = "histórias que emocionam."
 
 	# Optional 64x64 avatar image.
-	avatar = "https://pbs.twimg.com/profile_images/833573742353711107/T45OvTDl_400x400.jpg"
+	avatar = "https://i0.wp.com/www.creativefabrica.com/wp-content/uploads/2020/02/10/Panda-Logo-Graphics-1-5-580x386.jpg?resize=128,128"
 
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
