@@ -1,8 +1,10 @@
 ---
-title: "Só amigos?"
+title: "quero um marcus pra chamar de meu
 date: 2021-10-21T12:13:30+05:30
+description: "se você olhar de longe, tudo parece perfeito. mas não se engane: talvez a grama do vizinho só seja mais verde porque é artificial."
 tags: [memories]
 ---
+![](https://i0.wp.com/imageup.me/images/quero-um-marcus-pra-chamar-de-meu.jpeg?resize=400.225)
 
 **Bruna e Marcus** se conheceram em 2008. Colegas de sala, **viraram melhores amigos**. Compartilharam segredos, sonhos, angústias, uma viagem para Paraty e um show do Lulu Santos.
 
