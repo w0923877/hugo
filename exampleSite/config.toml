@@ -17,7 +17,7 @@ disqusShortname = "geanramos"
 	subtitle = "histórias que emocionam."
 
 	# Optional 64x64 avatar image.
-	avatar = "https://i0.wp.com/imageup.me/images/panda.jpeg?resize=128,128"
+	avatar = "https://i0.wp.com/imageup.me/images/panda.jpeg?resize=80,80"
 
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
@@ -58,7 +58,7 @@ url = "https://twitter/geanramos"
 [[params.social]]
 name = "Telegram"
 icon = "coffee"
-url = "/doacao"
+url = "https://nubank.com.br/pagar/13s98d/RqJRPjJZJB"
 
 [taxonomies]
    tag = "tags"
