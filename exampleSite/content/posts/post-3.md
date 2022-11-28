@@ -1,8 +1,8 @@
 ---
 title: "O amor vale a pena?"
 date: 2018-03-18T12:13:32+05:30
-description: "The art of letting go."
-tags: [Procrastinating]
+description: "Os colegas que viam de fora, desconfiavam que aquilo ali não poderia ser só amizade, mas eles não ligavam: sabiam que aquela conexão era pra poucos."
+tags: [memories]
 ---
 
 Quando pequena, a  **Karol**  não tinha muitos amigos. Fazia parte da turminha do colégio, mas  **não tinha muita sintonia com ninguém.**  Apesar de ser convidada para todas as festinhas de aniversário,  **cresceu como uma criança sozinha.**

@@ -1,40 +1,37 @@
 ---
-title: "Fearlessness: How to Stop Running from Space"
-date: 2018-03-18T12:13:30+05:30
-tags: [Space]
+title: "Só amigos?"
+date: 2021-10-21T12:13:30+05:30
+tags: [memories]
 ---
 
-We spend our days filling in every available space, cramming in more tasks, responding to messages, checking social media and online sites, watching videos.
+**Bruna e Marcus** se conheceram em 2008. Colegas de sala, **viraram melhores amigos**. Compartilharam segredos, sonhos, angústias, uma viagem para Paraty e um show do Lulu Santos.
 
-We are afraid of empty space in our lives.
+Cresceram, amadureceram e foram parar na mesma faculdade. Ela fazendo design e ele publicidade — **obra do acaso ou vontade de moldar o destino?**
 
-The result is often a continual busyness, constant distraction and avoidance, lack of focus, lack of satisfaction with our lives.
+-   Entre namoros, ciúmes e uma juventude repleta de incertezas, a amizade dos dois continuou sendo **refúgio**: lugar em que não precisavam pesar pensamentos nem medir palavras.
+    
 
-We run from silence. We run from the spaces between tasks and appointments. We run from solitude and stillness. We try to fill every second with activity, with something useful, as if silence and space are not valuable.
+Quando fizeram uma viagem para Búzios, todos em volta já desconfiavam que aquele grude deveria significar algo a mais… Mas os dois batiam o pé que eram **só amigos**.
 
-But what are we afraid of?
+> Satisfazendo os anseios do coração — e com a ajuda de alguns drinks — deram o primeiro beijo. **Bateu**. A amizade virou amor — **ou nunca deixara de ser**.
 
-And who would we be if we didn’t have that fear?
+Marcus teve aquela sensação de “agora vai”. Mas **Bruna sumiu**.
 
-We’re afraid of space and stillness and silence because it highlights the uncertainty, instability, groundlessness, insecurity, shakiness that lie underneath every second of our lives. We’re afraid of having to face this instability and uncertainty, of having to feel the fear of it.
+Um beijo e **nenhuma ligação**, **nenhuma mensagem**. Ele passou dias repassando cada detalhe daquela cena e se questionando o que poderia ter feito de errado.
 
-Without the fear of all of the uncertainty that is highlighted by space … we become free.
+**Depois de muito sofrimento**… Resolveu perguntar. Bruna respondeu que tinha medo: _“Somos muito amigos. E se não der certo?”_
 
-I know in my life, when I allow myself to have stillness, silence, solitude, simplicity and space … it leaves room to face whatever is coming up for me. It gives me room to fully feel any feelings that I’ve been avoiding. It allows me to be more honest with myself, instead of using distractions and busyness to cover up what I don’t want to see.
+-   Como **o barco da segurança nunca vai muito além da margem**, resolveram arriscar.
+    
 
-And in the end, I develop trust that the space is not something to be feared, but rather something to be treasured. A gift, filled with learning and not knowing and shakiness and beauty.
+Bruna deu uma chance para Marcus, que passou 2 semanas se esforçando para conquistar quem ele sabia ser o amor da sua vida.
 
-You might try allowing more space to be in your day, without filling it:
+**Até que**… no dia **10/10/2010**, Marcus sentiu que era a hora de pedir a Bruna em namoro. No meio da boate, muvuca, bebida e música alta, ele só teve um pensamento: **estar com ela era perfeito**.
 
-* Take some time between tasks for stillness.
-* Sit out in nature, in silence, without technology.
-* When you notice yourself reaching for your phone, pause. See if you can just be still, just savor some space.
-* When you feel uncertainty or instability in your life (hint: it’s always there), let yourself feel it. Be present with it, without needing to run or avoid.
-* When you feel fear, be open-hearted with it and allow yourself fully feel it, being friendly with it. Your relationship with fear will change if you become friendly with it.
-* Do less, and trust that things won’t fall apart. Or if they do fall apart, you can be present with that instability.
-* When you’re in line, driving, eating, walking, exercising … see if you can do those things in silence, without technology, without needing to do something “useful.” Find the value in these spaces.
-* Notice who you are without the fear of space.
+E ter essa “epifania” no dia 10/10/2010 significava alguma coisa? Não sabemos. Mas para Marcus tudo fazia muito sentido. **Talvez nunca fizera tanto**.
 
-Savor these spaces, their deliciousness. Savor the groundlessness, as something filled with freedom if we learn not to fear it. Be present with the fear and uncertainty, as good friends not as enemies.
+Hoje — **10/10/2021** — eles fazem 11 anos de namoro. Poderíamos dizer que foi coincidência, mas **Marcus quis preparar o café da manhã da Bruna com essa surpresa**.
 
-Let your heart be open raw tender and vulnerable, and your mind embracing the spaciousness of the vast blue sky of open awareness.
+> Enquanto vocês se deliciam com essa história, **ele a observa ler com um sorriso sincero no canto da boca**. O sorriso que o faz ter a certeza de todas as escolhas, decisões, projetos e 3 anos de casamento.
+
+E olhando para Bruna — como da primeira vez que a viu —, Marcus prova que o amor é real: **as comédias românticas existem**. Com percalços no caminho, mas aquele mesmo amor de 11 anos atrás.
