@@ -9,7 +9,11 @@
 		<h4 class="title small">
 			<a href="{{ .RelPermalink }}">{{.Title}}{{ if .Draft }}<sup class="draft-label">DRAFT</sup>{{ end }}</a>
 		</h4>
-		<span class="description">
+
+<!-- Start Audima Widget Injection layouts/partials/post-preview.html-->
+<div id="audimaWidget"></div>
+<script src="//audio.audima.co/audima-widget.js"></script>
+<!-- End Audima Widget Injection -->		<span class="description">
 			{{ if isset .Params "description" }}
 				{{ .Description }}
 			{{ else if gt (countrunes (.Content | plainify)) 120 }}
