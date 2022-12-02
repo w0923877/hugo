@@ -1,8 +1,8 @@
 ---
 title: "Como seria o mundo se você não existisse?"
 description: "hoje é um bom dia para agradecer quem faz a diferença na sua vida. mande essa mensagem para uma pessoa especial"
-date: 2022-12-01T06:13:38+05:30
-tags: [memories, natal, filmes]
+date: 2022-12-01T06:13:38+03:30
+tags: [memories]
 ---
 
 ![Imagem: It’s a Wonderful Life, 1946](https://i1.wp.com/imageup.me/images/imagem-it-s-a-wonderful-life-1946.jpeg?resize=400,255)
