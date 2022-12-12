@@ -6,6 +6,8 @@ tags: [memories]
 categories: [stories]
 ---
 
+![Amor e futebol](https://i1.wp.com/i.ibb.co/bbcQLMb/brincalh-o-jovem-fam-lia-1.jpg?resize=400,225)
+
 No dia **20 de junho de 1994**, o clima no Brasil era parecido com o que vimos nas últimas semanas: todo mundo reunido para assistir a estreia da seleção na Copa do Mundo dos EUA.
 
 -   O Estádio Stanford, em São Francisco, foi tomado por 80 mil espectadores, que esperavam ver o time dar show com a bola no pé.
