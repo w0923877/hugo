@@ -1,5 +1,5 @@
 baseURL = "https://memories.geanrmos.com/"
-languageCode = "en-us"
+languageCode = "pt-br"
 title = "The Memories"
 theme = "ink"
 paginate = 5
