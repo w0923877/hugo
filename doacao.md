@@ -4,9 +4,11 @@ date: 2021-04-19T21:37:58+05:30
 type: "page"
 ---
 
-
 Primeiramente, como todo escritor, sou viciado em café ☕☕☕☕ 
-(isso é bom? Talvez não LoL).
+
+![Esta é a minha taxa de consumo de café da manhã.](https://i1.wp.com/acegif.com/wp-content/uploads/gifs/coffee-31.gif?resize=400,225)
+
+> *(isso é bom? Talvez não LoL)*
 
 Segundamente, se o conteúdo deste blog te ajudou de alguma forma, 
 sinta-se livre para me pagar um cafézinho, caso queira, é claro. 
